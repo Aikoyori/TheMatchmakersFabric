@@ -3,7 +3,7 @@
   "id": "thematchmakers",
   "version": "${version}",
   "name": "The Matchmakers",
-  "description": "",
+  "description": "Adds matchsticks, matchbox that should in theory make it slightly more portable and more obtainable than Fire Charges.",
   "authors": ["Aikoyori"],
   "contact": {
     "sources": "https://github.com/Aikoyori/TheMatchmakersFabric",
