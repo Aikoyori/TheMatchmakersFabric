@@ -1,0 +1,22 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "matchisburnt": 0
+      },
+      "model": "thematchmakers:item/matchstick_normal"
+    },
+    {
+      "predicate": {
+        "matchisburnt": 0.5
+      },
+      "model": "thematchmakers:item/matchstick_burning"
+    },
+    {
+      "predicate": {
+        "matchisburnt": 1
+      },
+      "model": "thematchmakers:item/matchstick_burnt"
+    }
+  ]
+}

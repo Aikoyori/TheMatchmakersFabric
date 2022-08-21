@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "P",
+    "F",
+    "S"
+  ],
+  "key": {
+    "P": {
+      "item": "minecraft:gunpowder"
+    },
+    "F": {
+      "item": "minecraft:flint"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "thematchmakers:matchbox",
+    "count": 4
+  }
+}
