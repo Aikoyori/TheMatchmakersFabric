@@ -1,5 +1,6 @@
 package xyz.aikoyori.thematchmakers.items;
 
+import dev.lambdaurora.lambdynlights.api.item.ItemLightSource;
 import net.minecraft.block.*;
 import net.minecraft.entity.Entity;
 import net.minecraft.entity.player.PlayerEntity;
